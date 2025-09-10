@@ -1,28 +1,39 @@
-Quntera Solutions Web Project
-This is a modern web application built with Next.js and TypeScript for Quntera Solutions. The project features a clean, responsive design and includes dedicated pages for About, Careers, Contact, and Services.
+# Quntera Solutions Web Project
 
-Features
-⚡ Built with Next.js 14 and TypeScript
-🎨 Custom global and theme CSS
-🧩 Modular components: Navbar, Footer, Container
-📄 Multi-page structure: About, Careers, Contact, Services
-🌐 Responsive and accessible design
+This is a modern web application built with **Next.js** and **TypeScript** for **Quntera Solutions**.  
+The project features a clean, responsive design and includes dedicated pages for **About, Careers, Contact, and Services**.
 
-Getting Started
+## ✨ Features
+- ⚡ Built with **Next.js 14** and **TypeScript**
+- 🎨 Custom global and theme CSS
+- 🧩 Modular components: **Navbar, Footer, Container**
+- 📄 Multi-page structure: **About, Careers, Contact, Services**
+- 🌐 Responsive and accessible design
 
-Clone the repository:
+## 🚀 Getting Started
+
+### Clone the repository:
+```bash
 git clone https://github.com/<your-username>/Quntera_Solutions_webproject.git
 cd Quntera_Solutions_webproject
+```
 
-Install dependencies:
+### Install dependencies:
+```bash
 npm install
+```
 
-Run the development server:
+### Run the development server:
+```bash
 npm run dev
+```
 
-Open http://localhost:3000 to view the app.
+Open [http://localhost:3000](http://localhost:3000) to view the app.
 
-Project Structure
+---
+
+## 📂 Project Structure
+```
 src/
   app/
     about/
@@ -40,12 +51,16 @@ src/
     theme.css
 public/
   *.svg
-  
-Scripts
+```
 
-npm run dev — Start the development server
-npm run build — Build for production
-npm start — Start the production server
-License
-This project is licensed under the MIT License.
+---
 
+## 📜 Scripts
+- `npm run dev` — Start the development server  
+- `npm run build` — Build for production  
+- `npm start` — Start the production server  
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
