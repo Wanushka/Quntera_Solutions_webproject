@@ -64,3 +64,7 @@ public/
 
 ## 📄 License
 This project is licensed under the **MIT License**.
+
+## 👨‍💻 Author
+Wanushka Lakmal – Software Engineer & Flutter Developer
+📧 Contact: wanushkalakmal@gmail.com
